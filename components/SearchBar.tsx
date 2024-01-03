@@ -50,7 +50,7 @@ const SearchBar = () => {
         <div className='searchbar__item'>
             <SearchManufacturer 
             manufacturer = {manufacturer}
-            setManufacturer = {setManufacturer}
+            setManuFacturer = {setManufacturer}
             />
             <SearchButton otherClasses="sm:hidden"/>
         </div>
